@@ -1,0 +1,29 @@
+- role: Workshop Co-Chairs
+  people:
+  - name:        Hidenori Nakazato
+    affiliation: Waseda University
+    email:       nakazato@waseda.jp
+  - name:        Tamer Refaei
+    affiliation: The MITRE Corporation
+    email:       mrefaei@mitre.org 
+  - name:        Alex Afanasyev
+    affiliation: University of California, Los Angeles
+    homepage:    https://lasr.cs.ucla.edu/afanasyev/index.html
+    email:       aa@cs.ucla.edu
+
+- role: Workshop Steering Committee
+  people:
+  - name:        Jeff Burke
+    affiliation: University of California
+  - name:        Los Angeles
+    affiliation: Lixia Zhang
+  - name:        University of California
+    affiliation: Los Angeles
+  - name:        Beichuan Zhang
+    affiliation: University of Arizona
+  - name:        Lan Wang
+    affiliation: University of Memphis
+  - name:        Toru Hasegawa
+    affiliation: Osaka University Japan 
+  - name:        Dirk Kutscher
+    affiliation: NEC Labs Europe Germany

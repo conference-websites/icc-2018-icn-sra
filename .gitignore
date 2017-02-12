@@ -1,0 +1,12 @@
+*~
+*.sublime*
+Gemfile.lock
+_site
+.sass-cache
+client_secret.json
+google_client_id.json
+*.pyc
+rsa
+rsa.pub
+.travis.d/ssh-config
+.travis.d/secrets.tar

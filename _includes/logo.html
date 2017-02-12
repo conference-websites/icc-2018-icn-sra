@@ -1,0 +1,15 @@
+<div class="ui-bar ui-bar-b">
+  <div id="logo">
+    {% for line in site.text_logo %}
+      {% if line.link %}<a href="{{ line.link }}">{% endif %}
+        <{{ line.tag }}>{{ line.text }} </{{ line.tag }}>
+      {% if line.link %}</a>{% endif %}
+    {% endfor %}
+    {% if site.logo.image %}
+      <a href="{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/{{ site.logo.image }}" alt="{{ site.long_title | strip_html }}">
+      </a>
+    {% endif %}
+    <p>{{ site.dates }}</p>
+  </div>
+</div>

@@ -1,0 +1,68 @@
+safe: false
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+lsi: true
+highlighter: rouge
+markdown: kramdown
+exclude: ['_DOCS', '_SCRIPTS', '.travis.yml', '.travis.d', '.sass-cache', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'LICENSE.md']
+sass:
+  style: compressed
+encoding: UTF-8
+
+url: http://infocom-nom-17.cs.ucla.edu/
+baseurl: 
+github_source: https://github.com/cawka/NOM2017
+
+# Configuration for site
+title: "IEEE GLOBECOM 2017 ICN-SRA Workshop"
+text_logo:
+- text: IEEE GLOBECOM 2017
+  tag: h2
+- text: ICN-SRA Workshop
+  link: /
+  tag: h1
+- text: "The Third Workshop on Information-Centric Networking Solutions for Real World Applications"
+  tag: p
+dates: December 2017, Singapore
+# logo:
+#   image: images/.png
+  
+# google_analytics_id: UA-85406201-1
+
+# Configuration for navbar.html
+menu:
+- name: Home
+  url: /
+  icon: fa-home
+- name: Call for Papers
+  icon: fa-bullhorn
+  url: /cfp.html
+- name: Committees
+  url: /committees.html
+  icon: fa-users
+- name: Submission
+  icon: fa-paper-plane-o
+  url: /submission.html
+# - name: Registration
+#   url: /registration.html
+# - name: Program
+#   url: /program.html
+- name: Venue
+  icon: fa-map
+  url: /venue.html
+- name: Previous Workshops
+  icon: fa-history
+  submenu:
+    - name: ICNSRA'2016
+      url: http://icnsra.nz.comm.waseda.ac.jp/
+    - name: ICNSRA'2015
+      url: 
+
+colors:
+  highlight: 07536f
+  highlight-darker: 07536f
+  hfont: ffffff
+
+  program:
+    break-background: ffb300
