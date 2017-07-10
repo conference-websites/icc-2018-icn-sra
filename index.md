@@ -2,10 +2,10 @@
 layout: default
 og_tags:
   - property: og:description
-    content: "The organizing committee is delighted to invite you to the third IEEE GLOBECOM 2017 Workshop on Information-Centric Networking Solutions for Real World Applications (ICN-SRA)"
+    content: "The organizing committee is delighted to invite you to the third IEEE ICC 2018 Workshop on Information-Centric Networking Solutions for Real World Applications (ICN-SRA)"
 ---
 
-# Welcome to the IEEE GLOBECOM 2017 ICN-SRA Workshop
+# Welcome to the IEEE ICC 2018 ICN-SRA Workshop
 {: class="ui-bar ui-bar-a ui-corner-all" }
 
 {{ page.og_tags[0]['content'] }}
@@ -18,10 +18,10 @@ The objective of this workshop is to highlight recent research, development, and
 
 {% include dates.html %}
 
-## Sponsors
+<!-- ## Sponsors -->
 
-<div class="sponsors">
-<a href="http://globecom2017.ieee-globecom.org/" target="infocom"><img src="{{ site.baseurl }}/images/gc2017logo.png" alt="IEEE GLOBECOM 2017" /></a>
-<a href="http://www.ieee.org/index.html" target="ieee"><img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /></a>
-<a href="http://www.comsoc.org/" target="compsoc"><img src="{{ site.baseurl }}/images/comsoc.png" alt="IEEE Communications Society" /></a>
-</div>
+<!-- <div class="sponsors"> -->
+<!-- <a href="http://globecom2017.ieee-globecom.org/" target="infocom"><img src="{{ site.baseurl }}/images/gc2017logo.png" alt="IEEE GLOBECOM 2017" /></a> -->
+<!-- <a href="http://www.ieee.org/index.html" target="ieee"><img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /></a> -->
+<!-- <a href="http://www.comsoc.org/" target="compsoc"><img src="{{ site.baseurl }}/images/comsoc.png" alt="IEEE Communications Society" /></a> -->
+<!-- </div> -->

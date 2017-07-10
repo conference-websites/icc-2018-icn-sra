@@ -10,21 +10,21 @@ sass:
   style: compressed
 encoding: UTF-8
 
-url: http://infocom-nom-17.cs.ucla.edu/
+url: 
 baseurl: 
-github_source: https://github.com/cawka/NOM2017
+github_source: https://github.com/conference-websites/icn-sra
 
 # Configuration for site
-title: "IEEE GLOBECOM 2017 ICN-SRA Workshop"
+title: "IEEE ICC 2018 ICN-SRA Workshop"
 text_logo:
-- text: IEEE GLOBECOM 2017
+- text: IEEE ICC 2018
   tag: h2
 - text: ICN-SRA Workshop
   link: /
   tag: h1
 - text: "The Third Workshop on Information-Centric Networking Solutions for Real World Applications"
   tag: p
-dates: December 2017, Singapore
+dates: May 20, 2018, Kansas City, MO
 # logo:
 #   image: images/.png
   

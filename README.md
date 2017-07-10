@@ -1,7 +1,3 @@
-#  INFOCOM 2017 NOM Workshop Web Site
-
-This repository contains code and data for the INFOCOM 2017 NOM Workshop web site.
-
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see LICENSE.md for details).

@@ -1,15 +1,15 @@
 - role: Workshop Co-Chairs
   people:
-  - name:        Hidenori Nakazato
-    affiliation: Waseda University
-    email:       nakazato@waseda.jp
+  - name:        Alex Afanasyev
+    affiliation: Florida International University, Miami
+    homepage:    https://lasr.cs.ucla.edu/afanasyev/index.html
+    email:       aa@cs.fiu.edu
   - name:        Tamer Refaei
     affiliation: The MITRE Corporation
     email:       mrefaei@mitre.org 
-  - name:        Alex Afanasyev
-    affiliation: University of California, Los Angeles
-    homepage:    https://lasr.cs.ucla.edu/afanasyev/index.html
-    email:       aa@cs.ucla.edu
+  - name:        Hidenori Nakazato
+    affiliation: Waseda University
+    email:       nakazato@waseda.jp
 
 - role: Workshop Steering Committee
   people:
