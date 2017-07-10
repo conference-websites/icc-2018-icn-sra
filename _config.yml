@@ -11,7 +11,7 @@ sass:
 encoding: UTF-8
 
 url: 
-baseurl: 
+baseurl: /icc-2018-icn-sra
 github_source: https://github.com/conference-websites/icn-sra
 
 # Configuration for site
@@ -56,8 +56,10 @@ menu:
   submenu:
     - name: ICNSRA'2016
       url: http://icnsra.nz.comm.waseda.ac.jp/
+      external: True
     - name: ICNSRA'2015
       url: 
+      external: True
 
 colors:
   highlight: 07536f
