@@ -20,7 +20,7 @@ text_logo:
 - text: IEEE ICC 2018
   tag: h2
 - text: ICN-SRA Workshop
-  link: /icc-2018-icn-sra
+  link: /icc-2018-icn-sra/
   tag: h1
 - text: "The Third Workshop on Information-Centric Networking Solutions for Real World Applications"
   tag: p

@@ -1,12 +1,10 @@
 ---
 layout: default
+title: Welcome to the IEEE ICC 2018 ICN-SRA Workshop
 og_tags:
   - property: og:description
     content: "The organizing committee is delighted to invite you to the third IEEE ICC 2018 Workshop on Information-Centric Networking Solutions for Real World Applications (ICN-SRA)"
 ---
-
-# Welcome to the IEEE ICC 2018 ICN-SRA Workshop
-{: class="ui-bar ui-bar-a ui-corner-all" }
 
 {{ page.og_tags[0]['content'] }}
 
