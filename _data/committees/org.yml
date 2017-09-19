@@ -14,11 +14,9 @@
 - role: Workshop Steering Committee
   people:
   - name:        Jeff Burke
-    affiliation: University of California
-  - name:        Los Angeles
-    affiliation: Lixia Zhang
-  - name:        University of California
-    affiliation: Los Angeles
+    affiliation: University of California, Los Angeles
+  - name:        Lixia Zhang
+    affiliation: University of California, Los Angeles
   - name:        Beichuan Zhang
     affiliation: University of Arizona
   - name:        Lan Wang
