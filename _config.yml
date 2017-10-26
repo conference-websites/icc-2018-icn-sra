@@ -35,31 +35,31 @@ menu:
 - name: Home
   url: /
   icon: fa-home
-- name: Call for Papers
-  icon: fa-bullhorn
-  url: /cfp.html
-- name: Committees
-  url: /committees.html
-  icon: fa-users
-- name: Submission
-  icon: fa-paper-plane-o
-  url: /submission.html
-# - name: Registration
-#   url: /registration.html
-# - name: Program
-#   url: /program.html
-- name: Venue
-  icon: fa-map
-  url: /venue.html
-- name: Previous Workshops
-  icon: fa-history
-  submenu:
-    - name: ICNSRA'2016
-      url: http://icnsra.nz.comm.waseda.ac.jp/
-      external: True
-    - name: ICNSRA'2015
-      url: 
-      external: True
+# - name: Call for Papers
+#   icon: fa-bullhorn
+#   url: /cfp.html
+# - name: Committees
+#   url: /committees.html
+#   icon: fa-users
+# - name: Submission
+#   icon: fa-paper-plane-o
+#   url: /submission.html
+# # - name: Registration
+# #   url: /registration.html
+# # - name: Program
+# #   url: /program.html
+# - name: Venue
+#   icon: fa-map
+#   url: /venue.html
+# - name: Previous Workshops
+#   icon: fa-history
+#   submenu:
+#     - name: ICNSRA'2016
+#       url: http://icnsra.nz.comm.waseda.ac.jp/
+#       external: True
+#     - name: ICNSRA'2015
+#       url: 
+#       external: True
 
 colors:
   highlight: 07536f
